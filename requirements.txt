@@ -1,0 +1,11 @@
+pandas
+sqlite
+python-dotenv
+langchain-community
+tiktoken
+langchain-openai
+langchainhub
+langchain
+langgraph
+langchain-core
+langchain-text-splitters
