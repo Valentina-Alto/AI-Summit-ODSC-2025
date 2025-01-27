@@ -1,34 +1,3 @@
 {
-  "cart": [
-    {
-      "id": "65af",
-      "name": "Climbing Rope",
-      "price": 100
-    },
-    {
-      "id": "5cbf",
-      "name": "Climbing Rope",
-      "price": 100
-    },
-    {
-      "id": "69f6",
-      "name": "Climbing Shoes",
-      "price": 150
-    },
-    {
-      "id": "a00d",
-      "name": "Climbing Rope",
-      "price": 100
-    },
-    {
-      "id": "f2f2",
-      "name": "Climbing Rope",
-      "price": 100
-    },
-    {
-      "id": "37d3",
-      "name": "Carabiner",
-      "price": 20
-    }
-  ]
+  "cart": []
 }

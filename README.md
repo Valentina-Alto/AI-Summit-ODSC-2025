@@ -57,20 +57,20 @@ os.environ["AZURE_OPENAI_CHAT_DEPLOYMENT_NAME"] = "<your-deployment-name>"
 4. To run locally the `index.html` website, you have 2 options:
     - If you are using [VS code](https://code.visualstudio.com/download), you can install and enable the Live Server Extension and follow the instructions on the extension main page.
     - Otherwise, you can run the following command in your command line:
-    ```python
-    npm install -g http-server
-    cd path/to/your/index.html
-    http-server
-    ```
+```python
+npm install -g http-server
+cd path/to/your/index.html
+http-server
+```
     Your application will run at http://localhost:8080.
 
 5. To run locally the `db.json` database:
 
-    ```python
-    npm install -g json-server
-    cd path/to/your/db.json
-    json-server --watch db.json
-    ```
+```python
+npm install -g json-server
+cd path/to/your/db.json
+json-server --watch db.json
+```
     Your database will run at http://localhost:3000.
 
 
